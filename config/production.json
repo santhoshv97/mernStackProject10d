@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://santhosh:<password>@mernstackproject.50lcc.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "jwtsecrettoken",
+  "githubClientId": "3ab8683c431d071428f7",
+  "githubSecret": "423fe0c52441f999baaf23ec9c1a49c23c03b576"
+}
