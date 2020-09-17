@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://manavalan:manavalan@sampledemo.qo5jt.mongodb.net/nodeapi?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://santhosh:santhosh123@mernstackproject.0tzja.mongodb.net/mernstackdb?retryWrites=true&w=majority",
   "jwtSecret": "jwtsecrettoken",
   "githubClientId": "3ab8683c431d071428f7",
   "githubSecret": "423fe0c52441f999baaf23ec9c1a49c23c03b576"
